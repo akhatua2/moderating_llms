@@ -1,0 +1,6 @@
+0,action_A,action_B,points_A,points_B,qualitative_scores_A,qualitative_scores_B,T_A,C_A,CS_A,R_A,S_A,T_B,C_B,CS_B,R_B,S_B
+action_A,,,,,,,,,,,,,,,,
+action_B,,,,,,,,,,,,,,,,
+points_A,,,,,,,,,,,,,,,,
+points_B,,,,,,,,,,,,,,,,
+,"[1, 1, 2]","[1, 0, 2]",0.0,0.0,6.6,0.0,6.0,7.0,6.0,8.0,6.0,0.0,0.0,0.0,0.0,0.0
